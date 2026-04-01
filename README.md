@@ -1,5 +1,5 @@
 # DCE - Semester project
-The first semester thesis from the subject KIV/DCE is devoted to the implementation of cloud infrastructure with a load-balancer and several backends. The infrastructure is implemented with these listed tools: Docker, Terraform, Ansible. Furthermore, this work uses the OpenNebula cloud services provided by University of West Bohemia at nuada.zcu.cz.
+This semester thesis from the subject KIV/DCE is devoted to the implementation of cloud infrastructure with a load-balancer and several backends. The infrastructure is implemented with these listed tools: Docker, Terraform, Ansible. Furthermore, this work uses the OpenNebula cloud services provided by University of West Bohemia at nuada.zcu.cz.
 
 ## Function
 The resulting cluster returns a simple web page containing the IP address of the serving backend when accessing the load balancer's address. The backend is written using Python Flask module. The load balancer utilizes round-robin algorithm for purposes of transparency.
