@@ -1,4 +1,4 @@
-# DCE-Semestralka_1
+# DCE-Semester Project
 The first semester thesis from the subject KIV/DCE is devoted to the implementation of cloud infrastructure with a load-balancer and several backends. The infrastructure is implemented with these listed tools: Docker, Terraform, Ansible. Furthermore, this work uses the OpenNebula cloud services provided by University of West Bohemia at nuada.zcu.cz.
 
 ## Function
